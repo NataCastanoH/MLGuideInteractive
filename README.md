@@ -31,7 +31,6 @@ Una aplicación web interactiva que ayuda a científicos de datos, analistas y e
 - [Tecnologías](#-tecnologías)
 - [Contribuir](#-contribuir)
 - [Licencia](#-licencia)
-- [Autor](#-autor)
 
 ---
 
