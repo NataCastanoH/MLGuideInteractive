@@ -231,15 +231,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
-## 👨‍💻 Autor
-
-**Natalia Castaño**
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-
----
-
 ## 🙏 Agradecimientos
 
 - Inspirado en las mejores prácticas de la industria de ML/DS
