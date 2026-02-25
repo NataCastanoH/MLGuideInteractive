@@ -4,7 +4,7 @@
 
 ## 📋 Código de Conducta
 
-Este proyecto y todos los participantes están regidos por nuestro [Código de Conducta](CODE_OF_CONDUCT.md). Al participar, se espera que cumplas con este código.
+Se espera que todos los participantes sean respetuosos y profesionales en sus interacciones.
 
 ## 🚀 ¿Cómo Puedo Contribuir?
 
@@ -12,7 +12,7 @@ Este proyecto y todos los participantes están regidos por nuestro [Código de C
 
 Si encuentras un bug:
 
-1. **Verifica** que no esté ya reportado en [Issues] ([https://github.com/NataCastanoH/issues])
+1. **Verifica** que no esté ya reportado en la sección de Issues del repositorio
 2. **Crea un nuevo issue** con:
    - Título descriptivo
    - Pasos para reproducir el bug
@@ -57,7 +57,7 @@ Para sugerir nuevas funcionalidades:
 
 #### Convenciones de Commits
 
-Usamos [Conventional Commits] (https://www.conventionalcommits.org/):
+Usamos [Conventional Commits](https://www.conventionalcommits.org/):
 
 - `feat:` Nueva funcionalidad
 - `fix:` Corrección de bug
@@ -135,10 +135,10 @@ src/
 
 ### Para Nuevos Contribuidores
 
-- [React Documentation] (https://react.dev/)
-- [Tailwind CSS Docs] (https://tailwindcss.com/docs)
-- [Vite Guide] (https://vitejs.dev/guide/)
-- [How to Contribute to Open Source] (https://opensource.guide/how-to-contribute/)
+- [React Documentation](https://react.dev/)
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- [Vite Guide](https://vitejs.dev/guide/)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 ### Ideas para Contribuir
 
@@ -165,8 +165,10 @@ src/
 
 ## 📄 Licencia
 
-Al contribuir, aceptas que tus contribuciones serán licenciadas bajo la [Licencia MIT] (LICENSE).
+Al contribuir, aceptas que tus contribuciones serán licenciadas bajo la [Licencia MIT](LICENSE).
 
 ---
+
+¡Gracias por contribuir! 🙌
 
 ¡Gracias por contribuir! 🙌
