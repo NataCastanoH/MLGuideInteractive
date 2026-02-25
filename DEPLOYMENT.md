@@ -18,7 +18,7 @@ La forma más simple de desplegar tu aplicación de forma gratuita.
 2. **Actualizar package.json**:
    ```json
    {
-     "homepage": "https://NataCastanoH.github.io/ml-guide-interactive",
+     "homepage": "https://NataCastanoH.github.io/MLGuideInteractive",
      "scripts": {
        "predeploy": "npm run build",
        "deploy": "gh-pages -d dist"
@@ -29,7 +29,7 @@ La forma más simple de desplegar tu aplicación de forma gratuita.
 3. **Actualizar vite.config.js**:
    ```javascript
    export default defineConfig({
-     base: '/ml-guide-interactive/',  // Nombre de tu repo
+     base: '/MLGuideInteractive/',  // Nombre de tu repo
      // ... resto de la configuración
    })
    ```
@@ -40,7 +40,7 @@ La forma más simple de desplegar tu aplicación de forma gratuita.
 npm run deploy
 ```
 
-La aplicación estará disponible en: `https://NataCastanoH.github.io/ml-guide-interactive`
+La aplicación estará disponible en: `https://NataCastanoH.github.io/MLGuideInteractive`
 
 ### GitHub Actions (Automático)
 
@@ -217,10 +217,10 @@ server {
 
 ```bash
 # Build
-docker build -t ml-guide-interactive .
+docker build -t MLGuideInteractive .
 
 # Run
-docker run -p 8080:80 ml-guide-interactive
+docker run -p 8080:80 MLGuideInteractive
 ```
 
 ---
