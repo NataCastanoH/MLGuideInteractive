@@ -415,7 +415,7 @@ const MLGuideApp = () => {
             onClick={resetDecisionTree}
             className="px-6 py-3 bg-slate-200 hover:bg-slate-300 text-slate-700 rounded-lg font-medium transition-colors"
           >
-            🔄 Reiniciar desde el inicio
+            🔄 Reiniciar
           </button>
         </div>
       </div>
