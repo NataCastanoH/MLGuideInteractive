@@ -1,0 +1,49 @@
+{
+  "name": "ml-guide-interactive",
+  "version": "1.0.0",
+  "description": "Guía interactiva de consulta rápida para Ciencia de Datos y Machine Learning",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "keywords": [
+    "machine-learning",
+    "data-science",
+    "ml-guide",
+    "interactive",
+    "decision-tree",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "Tu Nombre <tu-email@ejemplo.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/ml-guide-interactive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/ml-guide-interactive/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/ml-guide-interactive#readme",
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
