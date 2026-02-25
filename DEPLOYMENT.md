@@ -18,7 +18,7 @@ La forma más simple de desplegar tu aplicación de forma gratuita.
 2. **Actualizar package.json**:
    ```json
    {
-     "homepage": "https://tu-usuario.github.io/ml-guide-interactive",
+     "homepage": "https://NataCastanoH.github.io/ml-guide-interactive",
      "scripts": {
        "predeploy": "npm run build",
        "deploy": "gh-pages -d dist"
@@ -40,7 +40,7 @@ La forma más simple de desplegar tu aplicación de forma gratuita.
 npm run deploy
 ```
 
-La aplicación estará disponible en: `https://tu-usuario.github.io/ml-guide-interactive`
+La aplicación estará disponible en: `https://NataCastanoH.github.io/ml-guide-interactive`
 
 ### GitHub Actions (Automático)
 
@@ -257,10 +257,8 @@ Antes de desplegar, verifica:
 - [ ] `npm run build` funciona sin errores
 - [ ] La aplicación funciona en `npm run preview`
 - [ ] Actualizaste URLs en package.json y README
-- [ ] Agregaste screenshot para README
-- [ ] Configuraste analytics (opcional)
 - [ ] Probaste en diferentes navegadores
-- [ ] Optimizaste imágenes
+- [ ] Optimizaste imágenes (si hay)
 - [ ] Configuraste meta tags SEO
 
 ---
@@ -324,4 +322,4 @@ Después de desplegar:
 
 ---
 
-¿Necesitas ayuda? Abre un [issue](https://github.com/tu-usuario/ml-guide-interactive/issues) en GitHub.
+¿Necesitas ayuda? Abre un [issue](https://github.com/NataCastanoH/MLGuideInteractive/issues) en GitHub.
