@@ -7,18 +7,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38B2AC.svg)](https://tailwindcss.com/)
 
 Una aplicación web interactiva que ayuda a científicos de datos, analistas y estudiantes a:
-- ✅ Elegir el modelo de ML adecuado mediante un árbol de decisión
-- 🏭 Explorar casos de uso reales por industria
-- ⚡ Aplicar mejores prácticas y tips probados
-- 📋 Seguir un checklist completo para proyectos de ML
 
-![Screenshot de la aplicación](./docs/screenshot.png)
-
----
-
-## 🚀 Demo en Vivo
-
-👉 **[Ver Demo](https://tu-usuario.github.io/ml-guide-interactive)**
+✅ Elegir el modelo de ML adecuado mediante un árbol de decisión  
+🏭 Explorar casos de uso reales por industria  
+⚡ Aplicar mejores prácticas y tips probados  
+📋 Seguir un checklist completo para proyectos de ML
 
 ---
 
@@ -38,6 +31,7 @@ Una aplicación web interactiva que ayuda a científicos de datos, analistas y e
 
 ### 🌳 Árbol de Decisión Interactivo
 Navega paso a paso respondiendo preguntas sobre tu problema para descubrir:
+
 - El modelo de ML más adecuado
 - Ventajas y desventajas
 - Cuándo usarlo (y cuándo no)
@@ -45,17 +39,20 @@ Navega paso a paso respondiendo preguntas sobre tu problema para descubrir:
 
 ### 🏭 Casos de Uso por Industria
 Explora más de 8 casos de uso reales en:
+
 - **Retail & E-commerce**: Churn, demanda, segmentación
 - **Manufactura**: Mantenimiento predictivo, control de calidad
 - **Finanzas**: Credit scoring, detección de fraude
 - **Marketing**: Segmentación, propensión de compra
 
 Con filtros por:
+
 - Industria
 - Búsqueda de texto (problema/modelo)
 
 ### ⚡ Tips Rápidos
 Principios fundamentales organizados en categorías:
+
 - Simple primero
 - Conoce tus restricciones
 - Métrica de negocio > métrica técnica
@@ -64,6 +61,7 @@ Principios fundamentales organizados en categorías:
 
 ### ✅ Checklist de Proyecto ML
 Lista verificable de 5 fases:
+
 1. Definición del problema
 2. Auditoría de datos
 3. Feature engineering
@@ -83,7 +81,7 @@ Lista verificable de 5 fases:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/ml-guide-interactive.git
+git clone https://github.com/NataCastanoH/ml-guide-interactive.git
 cd ml-guide-interactive
 
 # Instalar dependencias
@@ -130,6 +128,7 @@ Los archivos estáticos se generarán en la carpeta `dist/`
 ### Como Referencia en tus Proyectos
 
 Puedes usar este repositorio como:
+
 - 📚 Material educativo para cursos de ML/DS
 - 🎓 Recurso de onboarding para nuevos analistas
 - 📖 Guía de consulta rápida durante proyectos
@@ -150,10 +149,6 @@ ml-guide-interactive/
 ├── public/
 │   └── vite.svg
 │
-├── docs/
-│   ├── screenshot.png       # Screenshot para README
-│   └── demo.gif             # GIF animado (opcional)
-│
 ├── .gitignore
 ├── package.json
 ├── vite.config.js
@@ -161,8 +156,7 @@ ml-guide-interactive/
 ├── postcss.config.js
 ├── index.html
 ├── README.md
-├── LICENSE
-└── CONTRIBUTING.md
+└── LICENSE
 ```
 
 ---
@@ -211,7 +205,7 @@ Este proyecto está construido con:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-Por favor lee [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles sobre nuestro código de conducta y el proceso para enviar pull requests.
+Si quieres contribuir, abre un issue o pull request. ¡Toda ayuda es bienvenida!
 
 ### Ideas para Contribuciones
 
@@ -230,6 +224,13 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
+## 👨‍💻 Autor
+
+**Natalia Castaño Hoyos**
+- GitHub: [@NataCastanoH](https://github.com/NataCastanoH)
+
+---
+
 ## 🙏 Agradecimientos
 
 - Inspirado en las mejores prácticas de la industria de ML/DS
@@ -244,15 +245,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/) - Documentación oficial
 - [Fast.ai](https://www.fast.ai/) - Cursos prácticos de ML
 - [Kaggle](https://www.kaggle.com/) - Competencias y datasets
-
----
-
-## 📊 Estadísticas del Proyecto
-
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario/ml-guide-interactive?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tu-usuario/ml-guide-interactive?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tu-usuario/ml-guide-interactive)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tu-usuario/ml-guide-interactive)
 
 ---
 
