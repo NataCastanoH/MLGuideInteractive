@@ -81,8 +81,8 @@ Lista verificable de 5 fases:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/NataCastanoH/ml-guide-interactive.git
-cd ml-guide-interactive
+git clone https://github.com/NataCastanoH/MLGuideInteractive.git
+cd MLGuideInteractive
 
 # Instalar dependencias
 npm install
@@ -139,7 +139,7 @@ Puedes usar este repositorio como:
 ## 📁 Estructura del Proyecto
 
 ```
-ml-guide-interactive/
+MLGuideInteractive/
 │
 ├── src/
 │   ├── App.jsx              # Componente principal
