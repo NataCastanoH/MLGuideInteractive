@@ -1,5 +1,5 @@
 {
-  "name": "ml-guide-interactive",
+  "name": "MLGuideInteractive",
   "version": "1.0.0",
   "description": "Guía interactiva de consulta rápida para Ciencia de Datos y Machine Learning",
   "type": "module",
@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/ml-guide-interactive.git"
+    "url": "https://github.com/tu-usuario/MLGuideInteractive.git"
   },
   "bugs": {
-    "url": "https://github.com/tu-usuario/ml-guide-interactive/issues"
+    "url": "https://github.com/tu-usuario/MLGuideInteractive/issues"
   },
-  "homepage": "https://github.com/tu-usuario/ml-guide-interactive#readme",
+  "homepage": "https://github.com/tu-usuario/MLGuideInteractive#readme",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
